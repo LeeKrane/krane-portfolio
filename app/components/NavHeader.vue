@@ -9,8 +9,3 @@
 		<NuxtLink external target="_blank" to="https://resume.krane.dev/">Resume</NuxtLink>
 	</nav>
 </template>
-<script>
-export default {
-	name: 'NavHeader'
-}
-</script>
