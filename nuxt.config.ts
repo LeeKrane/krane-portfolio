@@ -9,7 +9,7 @@ export default defineNuxtConfig({
 			autoprefixer: {},
 		},
 	},
-	css: ["app/assets/css/main.css"],
+	css: ["assets/scss/tailwind.scss"],
 	future: {
 		compatibilityVersion: 4,
 	},
