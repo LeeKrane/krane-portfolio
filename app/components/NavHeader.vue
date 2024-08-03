@@ -1,5 +1,5 @@
 <template>
-	<nav>
+	<nav class="flex mx-8 my-5 p-1 rounded-xl bg-base-200">
 		<NuxtLink to="/home">Home</NuxtLink>
 		<NuxtLink to="/experience">Experience</NuxtLink>
 		<NuxtLink to="/education">Education</NuxtLink>
